@@ -13,30 +13,6 @@ World-class SaaS website built with Next.js 15, React 19, and Framer Motion.
 ✨ SEO Optimized
 ✨ Performance Optimized
 
-## Deployment
-
-### Cloudflare Pages
-
-```bash
-npm run build
-wrangler pages deploy .next/standalone
-```
-
-See DEPLOYMENT.md for full instructions.
-
-## Project Structure
-
-```
-app/              # Next.js routes
-lib/
-  components/    # React components
-  hooks/         # Custom hooks
-  utils/         # Utilities
-  types.ts       # TypeScript types
-styles/          # Global CSS
-public/          # Static files
-```
-
 ## Documentation
 
 - See CLOUDFLARE_DEPLOYMENT.md for deployment
