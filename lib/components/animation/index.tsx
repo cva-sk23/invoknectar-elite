@@ -3,6 +3,7 @@
 import { useRef } from 'react'
 import { motion } from 'framer-motion'
 import { useInView } from '@/lib/hooks'
+import * as React from 'react'
 
 interface ScrollRevealProps {
   children: React.ReactNode
@@ -179,4 +180,4 @@ export function ScaleIn({ children, delay = 0, duration = 0.6, className = '' }:
   )
 }
 
-import React
+

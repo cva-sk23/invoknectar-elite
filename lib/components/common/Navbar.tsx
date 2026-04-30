@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { Menu, X, Moon, Sun } from 'lucide-react'
 import { motion } from 'framer-motion'
 import { useTheme } from '@/lib/hooks'
-import { Button } from './ui/Button'
+import { Button } from '../ui/Button'
 
 const navLinks = [
   { label: 'Home', href: '/' },
