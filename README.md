@@ -2,24 +2,6 @@
 
 World-class SaaS website built with Next.js 15, React 19, and Framer Motion.
 
-## Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Development
-npm run dev
-
-# Build
-npm run build
-
-# Start production
-npm run start
-```
-
-Visit http://localhost:3000
-
 ## Features
 
 ✨ Modern Next.js 15 App Router
